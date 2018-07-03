@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #eeeeee;
+    font-family: 'Vidaloka', serif;
+}
+
+#main{
+    margin: 30px;
+}
+
+#title{
+    padding: 10px 0px;
+}
+
+h1,h3{
+    text-align: center;
+}
+
+h3{
+    margin: 10px 0px;
+}
+
+#img-div{
+    background: #fff;
+    padding: 20px 80px;
+    display: flex;
+    flex-direction: column;
+}
+
+#image{
+    max-width: 100%;
+    width: 100vw;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+p{
+    margin: auto;
+}
+
+#tribute-info{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+#tribute-info h2{
+    margin: auto;
+    padding-bottom: 1rem;
+}
+
+#tribute-info ul{
+    margin: auto;
+}
+
+#tribute-info ul li{
+    line-height: 2em;
+}
+
+#main h2{
+    text-align: center;
+}
