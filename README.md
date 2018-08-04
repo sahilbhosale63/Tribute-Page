@@ -1,7 +1,11 @@
 # Tribute-Page
 
-> Image 1
-![p1 1](https://user-images.githubusercontent.com/21124445/42211052-2ecbfaea-7ed0-11e8-8783-3263d142f402.png)
+# Screenshots
 
-> Image 2
-![p1 2](https://user-images.githubusercontent.com/21124445/42211053-2f06b02c-7ed0-11e8-91e8-2022ed53f8d1.png)
+**1** 
+![p1](https://user-images.githubusercontent.com/21124445/43677744-cb213d7a-9824-11e8-8a5b-5ae19f6c31e5.png)
+
+
+**2** 
+![p2](https://user-images.githubusercontent.com/21124445/43677745-cb51a816-9824-11e8-9412-66941e7d5d2f.png)
+
